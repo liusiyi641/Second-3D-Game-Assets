@@ -1,5 +1,4 @@
 # Second-3D-Game-Assets
-Second-3D-Game-Demo-Assets
 All codes in Assets/Scripts
 
 
