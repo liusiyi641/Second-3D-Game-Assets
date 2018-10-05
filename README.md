@@ -1,5 +1,6 @@
 # Second-3D-Game-Assets
 Second-3D-Game-Demo-Assets
+All codes in Assets/Scripts
 
 
 This is our Second 3D Unity Game that we intend to make public. 
